@@ -1,4 +1,4 @@
-# Merhabalar
+# Merhabalaaar
 **Ben İbrahim**
 
 - 🔥 Discord.js,Phyton ve Aoi.js Öğrenmeye Çalışıyorum
