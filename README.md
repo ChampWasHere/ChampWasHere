@@ -1,6 +1,6 @@
 # Merhabalaaar
 **Ben İbrahim**
-
+16 Yaşındayım ve Mersinde Yaşıyorum Sizler İçin Discord Bot Altyapıları Paylaşıyorum
 
 - - - 
 
